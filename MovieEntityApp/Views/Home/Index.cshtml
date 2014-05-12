@@ -1,0 +1,21 @@
+﻿@model List<MovieEntityApp.Models.Movie>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+<div>
+    @foreach (var m in ViewData.Model)
+    {
+        <p>Title: @m.Title</p>
+        <p>Director: @m.Director</p>
+        <br />
+        @Html.ActionLink("Edit", "Edit", new { id = m.Id })
+        <span style="padding-left: 2px"></span>
+        @Html.ActionLink("Delete", "Delete", new { id = m.Id })
+
+        <hr />
+    }
+
+    @Html.ActionLink("Add Movie", "Add")
+</div>
