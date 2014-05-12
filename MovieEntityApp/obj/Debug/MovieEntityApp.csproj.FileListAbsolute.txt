@@ -30,3 +30,35 @@ C:\Users\jbayan\Documents\Visual Studio 2013\Projects\MovieEntityApp\MovieEntity
 C:\Users\jbayan\Documents\Visual Studio 2013\Projects\MovieEntityApp\MovieEntityApp\obj\Debug\MovieEntityApp.csprojResolveAssemblyReference.cache
 C:\Users\jbayan\Documents\Visual Studio 2013\Projects\MovieEntityApp\MovieEntityApp\obj\Debug\MovieEntityApp.dll
 C:\Users\jbayan\Documents\Visual Studio 2013\Projects\MovieEntityApp\MovieEntityApp\obj\Debug\MovieEntityApp.pdb
+C:\Users\jbayan\Desktop\PracticeCode\MovieEntityApp\MovieEntityApp\bin\MovieEntityApp.dll.config
+C:\Users\jbayan\Desktop\PracticeCode\MovieEntityApp\MovieEntityApp\bin\MovieEntityApp.dll
+C:\Users\jbayan\Desktop\PracticeCode\MovieEntityApp\MovieEntityApp\bin\MovieEntityApp.pdb
+C:\Users\jbayan\Desktop\PracticeCode\MovieEntityApp\MovieEntityApp\bin\Antlr3.Runtime.dll
+C:\Users\jbayan\Desktop\PracticeCode\MovieEntityApp\MovieEntityApp\bin\EntityFramework.dll
+C:\Users\jbayan\Desktop\PracticeCode\MovieEntityApp\MovieEntityApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jbayan\Desktop\PracticeCode\MovieEntityApp\MovieEntityApp\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\jbayan\Desktop\PracticeCode\MovieEntityApp\MovieEntityApp\bin\Newtonsoft.Json.dll
+C:\Users\jbayan\Desktop\PracticeCode\MovieEntityApp\MovieEntityApp\bin\System.Net.Http.Formatting.dll
+C:\Users\jbayan\Desktop\PracticeCode\MovieEntityApp\MovieEntityApp\bin\System.Web.Http.dll
+C:\Users\jbayan\Desktop\PracticeCode\MovieEntityApp\MovieEntityApp\bin\System.Web.Http.WebHost.dll
+C:\Users\jbayan\Desktop\PracticeCode\MovieEntityApp\MovieEntityApp\bin\System.Web.Mvc.dll
+C:\Users\jbayan\Desktop\PracticeCode\MovieEntityApp\MovieEntityApp\bin\System.Web.Optimization.dll
+C:\Users\jbayan\Desktop\PracticeCode\MovieEntityApp\MovieEntityApp\bin\System.Web.Providers.dll
+C:\Users\jbayan\Desktop\PracticeCode\MovieEntityApp\MovieEntityApp\bin\System.Web.Razor.dll
+C:\Users\jbayan\Desktop\PracticeCode\MovieEntityApp\MovieEntityApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jbayan\Desktop\PracticeCode\MovieEntityApp\MovieEntityApp\bin\System.Web.WebPages.dll
+C:\Users\jbayan\Desktop\PracticeCode\MovieEntityApp\MovieEntityApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\jbayan\Desktop\PracticeCode\MovieEntityApp\MovieEntityApp\bin\WebGrease.dll
+C:\Users\jbayan\Desktop\PracticeCode\MovieEntityApp\MovieEntityApp\bin\EntityFramework.xml
+C:\Users\jbayan\Desktop\PracticeCode\MovieEntityApp\MovieEntityApp\bin\Newtonsoft.Json.xml
+C:\Users\jbayan\Desktop\PracticeCode\MovieEntityApp\MovieEntityApp\bin\System.Net.Http.Formatting.xml
+C:\Users\jbayan\Desktop\PracticeCode\MovieEntityApp\MovieEntityApp\bin\System.Web.Http.xml
+C:\Users\jbayan\Desktop\PracticeCode\MovieEntityApp\MovieEntityApp\bin\System.Web.Http.WebHost.xml
+C:\Users\jbayan\Desktop\PracticeCode\MovieEntityApp\MovieEntityApp\bin\System.Web.Mvc.xml
+C:\Users\jbayan\Desktop\PracticeCode\MovieEntityApp\MovieEntityApp\bin\System.Web.Razor.xml
+C:\Users\jbayan\Desktop\PracticeCode\MovieEntityApp\MovieEntityApp\bin\System.Web.WebPages.xml
+C:\Users\jbayan\Desktop\PracticeCode\MovieEntityApp\MovieEntityApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jbayan\Desktop\PracticeCode\MovieEntityApp\MovieEntityApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\jbayan\Desktop\PracticeCode\MovieEntityApp\MovieEntityApp\obj\Debug\MovieEntityApp.csprojResolveAssemblyReference.cache
+C:\Users\jbayan\Desktop\PracticeCode\MovieEntityApp\MovieEntityApp\obj\Debug\MovieEntityApp.dll
+C:\Users\jbayan\Desktop\PracticeCode\MovieEntityApp\MovieEntityApp\obj\Debug\MovieEntityApp.pdb

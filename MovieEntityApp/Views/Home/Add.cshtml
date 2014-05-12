@@ -1,0 +1,13 @@
+﻿@{
+    ViewBag.Title = "Add";
+}
+
+<h2>Add Movie</h2>
+
+<div>
+    @using (Html.BeginForm("Add", "Home")) {
+        <p>Title: <input name="title" type="text" /></p>
+        <p>Director: <input type="text" name="director" /></p>
+        <input type="submit" />
+    }
+</div>
