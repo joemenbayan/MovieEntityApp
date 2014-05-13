@@ -1,0 +1,17 @@
+﻿@model MovieEntityApp.Models.Movie
+
+@{
+    ViewBag.Title = "Edit Movie";
+}
+
+<h2>Edit Movie</h2>
+
+@using (Html.BeginForm("Edit", "Home", FormMethod.Post))
+{
+    @Html.Hidden("id");
+    
+    <p>Title: @Html.TextBox("title")</p>
+    <p>Director:  @Html.TextBox("director")</p>
+    <br/>
+    <input type="submit" value="Edit Movie" />
+}
